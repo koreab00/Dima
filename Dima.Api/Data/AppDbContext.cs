@@ -1,3 +1,4 @@
+using System.Reflection;
 using Dima.Core.Models;
 using Microsoft.EntityFrameworkCore;
 
@@ -9,7 +10,5 @@ public class AppDbContext : DbContext
     public DbSet<Transaction> Transactions { get; set; } = null!;
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
-    {
-        modelBuilder.ApplyConfiguration();
-    }
+        => modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 }
