@@ -5,6 +5,7 @@
 /Users/pauloalhadef/Documents/ProjetosVSC/Dima/Dima.Core/obj/Debug/net10.0/Dima.Core.AssemblyInfoInputs.cache
 /Users/pauloalhadef/Documents/ProjetosVSC/Dima/Dima.Core/obj/Debug/net10.0/Dima.Core.AssemblyInfo.cs
 /Users/pauloalhadef/Documents/ProjetosVSC/Dima/Dima.Core/obj/Debug/net10.0/Dima.Core.csproj.CoreCompileInputs.cache
+/Users/pauloalhadef/Documents/ProjetosVSC/Dima/Dima.Core/obj/Debug/net10.0/Dima.Core.sourcelink.json
 /Users/pauloalhadef/Documents/ProjetosVSC/Dima/Dima.Core/obj/Debug/net10.0/Dima.Core.dll
 /Users/pauloalhadef/Documents/ProjetosVSC/Dima/Dima.Core/obj/Debug/net10.0/refint/Dima.Core.dll
 /Users/pauloalhadef/Documents/ProjetosVSC/Dima/Dima.Core/obj/Debug/net10.0/Dima.Core.pdb
